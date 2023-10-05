@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA<br>👯 I’m looking to collaborate on Java, C, C++<br>🤝 I’m looking for help with Problem Solving<br>🌱 I’m currently learning DSA, Machine Learning, Web Dev<br>⚡ Fun fact: Coding isn't fun!
+🔭 I’m currently working on DSA, Computer Netowrks<br>👯 I’m looking to collaborate on Java, C, C++<br>🤝 I’m looking for help with Problem Solving<br>🌱 I’m currently learning DSA, Machine Learning, Web Dev<br>⚡ Fun fact: Coding isn't fun!
 
 
 ## 🌐 Socials:
